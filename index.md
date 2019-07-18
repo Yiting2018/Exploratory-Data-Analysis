@@ -14,7 +14,7 @@ We got the stock information using pandas datareader for the following banks:
 
 We used Pandas datareader to read stock information directly from the internet.
 
-'<!pip install git+https://github.com/pydata/pandas-datareader.git>'
+> !pip install git+https://github.com/pydata/pandas-datareader.git
 
 
 ## Code
